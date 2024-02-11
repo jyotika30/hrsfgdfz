@@ -34,20 +34,15 @@ To get started with the Green Challenge website, follow these steps:
 2. **Clone the Repository**
    - Clone the forked repository to your local machine using the following command:
      ```bash
-     git clone https://github.com/your-username/green-challenge.git
+     git clone https://github.com/your-username/Recycling-website.git
      ```
 
 3. **Open the Website**
-   - Open the `index.html` file in your preferred web browser to start using the Green Challenge platform.
+   - Open the `index.html` file in your preferred web browser to start using this website.
 
 4. **Contribute**
    - Contribute to the project by making improvements, adding features, or fixing issues.
    - Create a pull request to propose changes and collaborate with others.
+** Project made by team Tech Duo - Aarushi Singh and Jyotika Jaichand
 
-## Contributors
 
-- Add your name to the list of contributors if you contribute to the Green Challenge project.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE) - see the LICENSE file for details.
