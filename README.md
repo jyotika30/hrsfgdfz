@@ -22,7 +22,7 @@ Welcome to the website! This platform encourages eco-friendly activities and cha
 
 ### Submission System
 - Submit evidence of completing challenges through the submission form.
-- Provide details, images, or videos to showcase your eco-friendly efforts.     and many more...
+- Provide details, images, or videos to showcase your eco-friendly efforts        and many more...
 
 ## Getting Started
 
