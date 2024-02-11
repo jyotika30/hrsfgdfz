@@ -40,9 +40,7 @@ To get started with the Green Challenge website, follow these steps:
 3. **Open the Website**
    - Open the `index.html` file in your preferred web browser to start using this website.
 
-4. **Contribute**
-   - Contribute to the project by making improvements, adding features, or fixing issues.
-   - Create a pull request to propose changes and collaborate with others.
-** Project made by team Tech Duo - Aarushi Singh and Jyotika Jaichand
+
+##  Project made by team Tech Duo - Aarushi Singh and Jyotika Jaichand
 
 
