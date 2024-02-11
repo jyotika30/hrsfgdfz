@@ -44,6 +44,8 @@ To get started with the Green Challenge website, follow these steps:
 
 ## Presentation link- https://www.canva.com/design/DAF7utpnPKw/JtE0QPjUztXS-MGPOgULNA/view
 
+## Website link- https://rainbow-churros-2c9d95.netlify.app/
+
 ##  Project made by team Tech Duo - Aarushi Singh and Jyotika Jaichand
 
 
