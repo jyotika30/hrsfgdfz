@@ -1,6 +1,6 @@
-# Green Challenge Website
+# SustainHub Website
 
-Welcome to the Green Challenge website! This platform encourages eco-friendly activities and challenges to promote environmental awareness. Participate in various tasks, earn points, and climb the leaderboard by making a positive impact on the environment.
+Welcome to the website! This platform encourages eco-friendly activities and challenges to promote environmental awareness. Participate in various tasks, earn points, and climb the leaderboard by making a positive impact on the environment.
 
 ## Features
 
@@ -22,7 +22,7 @@ Welcome to the Green Challenge website! This platform encourages eco-friendly ac
 
 ### Submission System
 - Submit evidence of completing challenges through the submission form.
-- Provide details, images, or videos to showcase your eco-friendly efforts.
+- Provide details, images, or videos to showcase your eco-friendly efforts.     and many more...
 
 ## Getting Started
 
@@ -34,12 +34,15 @@ To get started with the Green Challenge website, follow these steps:
 2. **Clone the Repository**
    - Clone the forked repository to your local machine using the following command:
      ```bash
-     git clone https://github.com/your-username/Recycling-website.git
+     git clone https://github.com/your-username/Recycling-Website.git
      ```
 
 3. **Open the Website**
    - Open the `index.html` file in your preferred web browser to start using this website.
+  
+## Video link- https://youtu.be/XU10gfjOZAA?si=-p9hA6YIix7miq4l
 
+## Presentation link- https://www.canva.com/design/DAF7utpnPKw/JtE0QPjUztXS-MGPOgULNA/view
 
 ##  Project made by team Tech Duo - Aarushi Singh and Jyotika Jaichand
 
